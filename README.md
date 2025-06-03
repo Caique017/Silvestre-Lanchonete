@@ -8,10 +8,10 @@ O sistema permite que os clientes naveguem pelo cardápio, montem seus pedidos e
 
 ## Integrantes
 
-Caique Nunes Oliveira - 2223200242
-João Paulo Teles de Souza - 2223200206
-Pedro Henrique de Jesus - 2222201259
-Suellen Gaston Teixeira - 2222200079
+* Caique Nunes Oliveira - 2223200242
+* João Paulo Teles de Souza - 2223200206
+* Pedro Henrique de Jesus - 2222201259
+* Suellen Gaston Teixeira - 2222200079
 
 ## Funcionalidades Principais
 
