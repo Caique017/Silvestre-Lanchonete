@@ -6,6 +6,13 @@ Silvestre Lanchonete é um sistema de pedidos online completo, projetado para fo
 
 O sistema permite que os clientes naveguem pelo cardápio, montem seus pedidos e os enviem diretamente para o WhatsApp da lanchonete. Os administradores possuem um painel para gerenciar produtos (CRUD) e acompanhar o status dos pedidos. A autenticação é gerenciada via JWT (tokens manuais) e também oferece integração com Google OAuth2 para login e cadastro.
 
+## Integrantes
+
+Caique Nunes Oliveira - 2223200242
+João Paulo Teles de Souza - 2223200206
+Pedro Henrique de Jesus - 2222201259
+Suellen Gaston Teixeira - 2222200079
+
 ## Funcionalidades Principais
 
 **Para Clientes:**
