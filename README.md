@@ -13,6 +13,15 @@ O sistema permite que os clientes naveguem pelo cardápio, montem seus pedidos e
 * Pedro Henrique de Jesus - 2222201259
 * Suellen Gaston Teixeira - 2222200079
 
+## link do Azure devops
+* https://dev.azure.com/SilvestreLanchonete
+
+## link do vídeo 
+* https://youtu.be/x266rl-5s9Y
+
+## URL do site
+* https://silvestre-lanchonete-snvj.vercel.app/
+
 ## Funcionalidades Principais
 
 **Para Clientes:**
